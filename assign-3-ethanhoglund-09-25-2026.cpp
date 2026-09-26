@@ -74,7 +74,7 @@ cout << endl << "$ " << name << ", to get a/an " << grades[letgrade] << " on the
 
 }while (exput != "quit"); 
 
-cout<<"\n$ " << name << ", thank you for utilizing this program and good luck on your final. If you would like to see more projects like this feel free to contact: 210-875-4613." << endl;
+cout<<"\n$ " << name << ", thank you for utilizing this program and good luck on your final. If you would like to see more projects like this feel free to contact: 210-444-4444." << endl;
 
 return 0;
 }
