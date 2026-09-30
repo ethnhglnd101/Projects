@@ -71,8 +71,7 @@ def loop(x):
         if lineList[n] == '':
             lineList.pop(n)
         n += 1
-
-
+      
     stringList = str(lineList)  
     iteration1 = stringList.replace("[", "{", 1)
     iteration2 = iteration1.replace("]", "}", -1)
